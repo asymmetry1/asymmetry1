@@ -1,7 +1,7 @@
 ## asymmetry1
 Jack of all trade, master of none. Fueled by caffeine and ADHD ☕.
 
-```
+``` python
 myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Coffee"]`
 
 print(myhobbies)
