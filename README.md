@@ -1,10 +1,11 @@
 ## asymmetry1
----
 Jack of all trade, master of none. Fueled by caffeine and ADHD ☕.
 
 `myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Coffee"]`
+
 `print(myhobbies)`
 
+---
 ### What I Do
   - **Worked on:** Web-apps, python script, dabbling in machine learning.
   - **Learning:** Cyber Security & Pentesting.
