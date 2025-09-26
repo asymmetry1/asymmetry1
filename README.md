@@ -11,7 +11,7 @@ myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Co
 for hobby in myhobbies:
     print("→", hobby)
 ```
-
+<div class="tenor-gif-embed" data-postid="557274441467708652" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/freaking-out-gif-557274441467708652">Freaking Out Sticker</a>from <a href="https://tenor.com/search/freaking+out-stickers">Freaking Out Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 ## 🛠️ Tech Stack
 
