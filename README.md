@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=1000&color=F7F7F7&width=435&lines=Jack+of+all+trade%2C+master+of+none.;+Fueled+by+caffeine+and+ADHD+%E2%98%95.)](https://git.io/typing-svg) 
 
 <p align="center">
-  <img src="https://imgur.com/a/RvyWeGe" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR0M25iaWFnNTEwMjh3YWdqYWI4OTlmZzkzN2Vmeno5a2w2Y3FwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu4f6zCUPoytlUWIaH/giphy.gif" width="200"/>
 </p>
 
 ![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
@@ -20,6 +20,7 @@ for hobby in myhobbies:
 ### 🛠️ Tech Stack
 
 <div align="center">
+
 | 🖥️ Languages | 📚 Frameworks & Libraries |
 |--------------|---------------------------|
 | <p align="center"><img src="https://skillicons.dev/icons?i=python,js,bash,html,css,md" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=react,flask,nodejs,fastapi" /></p> |
@@ -27,16 +28,12 @@ for hobby in myhobbies:
 | ⚙️ Tools & Platforms | 🔐 Cybersecurity Stuff |
 |----------------------|------------------|
 | <p align="center"><img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,github,vscode" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=kali,raspberrypi" /></p> |
+
 </div>
 
 Puzzles and reverse-engineering are my jam—give me a challenge, and I’m hooked.
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asymmetry1&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asymmetry1&theme=radical" height="150"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asymmetry1&theme=onedark&row=1&column=6"/>
 </p>
