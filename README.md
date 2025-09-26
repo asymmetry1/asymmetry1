@@ -1,5 +1,5 @@
 ## asymmetry1
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A833&center=true&vCenter=true&width=435&lines=Jack+of+all+trades;Fueled+by+caffeine+%26+ADHD+☕)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=1000&color=F7F7F7&width=435&lines=Jack+of+all+trade%2C+master+of+none.;+Fueled+by+caffeine+and+ADHD+%E2%98%95.)](https://git.io/typing-svg) 
 
 
 ``` python
