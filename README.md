@@ -16,7 +16,6 @@ for hobby in myhobbies:
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 | 🖥️ Languages | 📚 Frameworks & Libraries |
 |--------------|---------------------------|
 | <p align="center"><img src="https://skillicons.dev/icons?i=python,js,bash,html,css,md" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=react,flask,nodejs,fastapi" /></p> |
@@ -24,7 +23,6 @@ for hobby in myhobbies:
 | ⚙️ Tools & Platforms | 🔐 Cybersecurity Stuff |
 |----------------------|------------------|
 | <p align="center"><img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,github,vscode" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=kali,raspberrypi" /></p> |
-
 </div>
 
 Puzzles and reverse-engineering are my jam—give me a challenge, and I’m hooked.
