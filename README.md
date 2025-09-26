@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=1000&color=F7F7F7&width=435&lines=Jack+of+all+trade%2C+master+of+none.;+Fueled+by+caffeine+and+ADHD+%E2%98%95.)](https://git.io/typing-svg) 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR0M25iaWFnNTEwMjh3YWdqYWI4OTlmZzkzN2Vmeno5a2w2Y3FwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu4f6zCUPoytlUWIaH/giphy.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/bwMyyLJGSf0AAAAd/genshin-impact-yelan-yelan.gif" width="400"/>
 </p>
 
 ![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
