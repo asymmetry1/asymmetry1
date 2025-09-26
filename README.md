@@ -10,7 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
 ![Static Badge](https://img.shields.io/badge/money-0-blue)
 ![Static Badge](https://img.shields.io/badge/maiden-0-blue)
-
 <p/>
 
 ``` python
