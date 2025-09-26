@@ -8,6 +8,11 @@ myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Co
 for hobby in myhobbies:
     print("→", hobby)
 ```
+
+![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
+![Static Badge](https://img.shields.io/badge/money-0-blue)
+![Static Badge](https://img.shields.io/badge/maiden-0-blue)
+
 ---
 ## 🛠️ Tech Stack
 
