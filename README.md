@@ -1,6 +1,10 @@
 ## asymmetry1
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=1000&color=F7F7F7&width=435&lines=Jack+of+all+trade%2C+master+of+none.;+Fueled+by+caffeine+and+ADHD+%E2%98%95.)](https://git.io/typing-svg) 
 
+<p align="center">
+  <img src="https://imgur.com/a/RvyWeGe" width="600"/>
+</p>
+
 ![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
 ![Static Badge](https://img.shields.io/badge/money-0-blue)
 ![Static Badge](https://img.shields.io/badge/maiden-0-blue)
@@ -11,9 +15,9 @@ myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Co
 for hobby in myhobbies:
     print("→", hobby)
 ```
-<div class="tenor-gif-embed" data-postid="557274441467708652" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/freaking-out-gif-557274441467708652">Freaking Out Sticker</a>from <a href="https://tenor.com/search/freaking+out-stickers">Freaking Out Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ---
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 | 🖥️ Languages | 📚 Frameworks & Libraries |
@@ -26,6 +30,16 @@ for hobby in myhobbies:
 </div>
 
 Puzzles and reverse-engineering are my jam—give me a challenge, and I’m hooked.
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asymmetry1&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asymmetry1&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asymmetry1&theme=onedark&row=1&column=6"/>
+</p>
 
 ### 📫 Say Hi
 If you’re a big beautiful goth girl (or just wanna chat tech), hit me up 🥺:
