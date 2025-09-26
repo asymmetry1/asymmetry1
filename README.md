@@ -5,9 +5,11 @@
   <img src="https://media1.tenor.com/m/bwMyyLJGSf0AAAAd/genshin-impact-yelan-yelan.gif" width="600"/>
 </p>
 
+<p align="center">
 ![Static Badge](https://img.shields.io/badge/sanity-50%25-blue)
 ![Static Badge](https://img.shields.io/badge/money-0-blue)
 ![Static Badge](https://img.shields.io/badge/maiden-0-blue)
+<p/>
 
 ``` python
 myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Coffee"]
@@ -16,7 +18,10 @@ for hobby in myhobbies:
     print("→", hobby)
 ```
 
----
+<div align="center">
+*.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* 
+</div>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -33,10 +38,18 @@ for hobby in myhobbies:
 
 Puzzles and reverse-engineering are my jam—give me a challenge, and I’m hooked.
 
+<div align="center">
+*.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* 
+</div>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asymmetry1&theme=onedark&row=1&column=6"/>
 </p>
+
+<div align="center">
+*.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* *.·:·.✧ ✦ ✧.·:·.* 
+</div>
 
 ### 📫 Say Hi
 If you’re a big beautiful goth girl (or just wanna chat tech), hit me up 🥺:
