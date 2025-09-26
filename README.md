@@ -1,26 +1,52 @@
 ## asymmetry1
-Jack of all trade, master of none. Fueled by caffeine and ADHD ☕.
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&pause=1000&color=F7F7F7&width=435&lines=Jack+of+all+trade%2C+master+of+none.;+Fueled+by+caffeine+and+ADHD+%E2%98%95.)](https://git.io/typing-svg) 
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/bwMyyLJGSf0AAAAd/genshin-impact-yelan-yelan.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/sanity-50%25-blue"/>
+  <img src="https://img.shields.io/badge/money-0-blue"/>
+  <img src="https://img.shields.io/badge/maiden-0-blue"/>
+<p/>
 
 ``` python
-myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Coffee"]`
+myhobbies = ["Biking", "Digital Painting", "Baking", "Music", "Tech Repair", "Coffee"]
 
-print(myhobbies)
+for hobby in myhobbies:
+    print("→", hobby)
 ```
----
-### What I Do
-  - **Worked on:** Web-apps, python script, dabbling in machine learning.
-  - **Learning:** Cyber Security & Pentesting.
-  - **Language:** Javascript, Python, Sundanese.
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| 🖥️ Languages | 📚 Frameworks & Libraries |
+|--------------|---------------------------|
+| <p align="center"><img src="https://skillicons.dev/icons?i=python,js,bash,html,css,md" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=react,flask,nodejs,fastapi" /></p> |
+
+| ⚙️ Tools & Platforms | 🔐 Cybersecurity Stuff |
+|----------------------|------------------|
+| <p align="center"><img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,github,vscode" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=kali,raspberrypi" /></p> |
+
+</div>
 
 Puzzles and reverse-engineering are my jam—give me a challenge, and I’m hooked.
 
-### Say Hi
-If you’re a big beautiful goth girl (or just wanna chat tech), hit me up 🥺:
-  - 📧 Email: kuronamiku@gmail.com
-  - 💬 Discord: asymmetry1
-  - 📸 Instagram: @asymmetry1
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asymmetry1&theme=onedark&row=1&column=6"/>
+</p>
 
-<!--
+### 📫 Say Hi
+If you’re a big beautiful goth girl (or just wanna chat tech), hit me up 🥺:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuronamiku@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/asymmetry1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asymmetry1)
+
+<!--:
 **asymmetry1/asymmetry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
